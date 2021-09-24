@@ -39,7 +39,13 @@ npm install
 docker-compose up -d
 ```
 
-### 4. Launch sample
+### 4. Start mail server
+
+```bash
+docker-compose down
+```
+
+### 5. Launch sample
 
 ```bash
 npm run start
