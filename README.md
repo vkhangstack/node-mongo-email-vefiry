@@ -39,7 +39,7 @@ npm install
 docker-compose up -d
 ```
 
-### 4. Start mail server
+### 4. Stop mail server
 
 ```bash
 docker-compose down
