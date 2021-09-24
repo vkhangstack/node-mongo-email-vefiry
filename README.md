@@ -51,6 +51,12 @@ docker-compose down
 npm run start
 ```
 
+### 6. Open UI MailHog
+
+```bash
+open browser with address http://localhost:8025/
+```
+
 ## Sample source
 
 ### docker-compose.yml
